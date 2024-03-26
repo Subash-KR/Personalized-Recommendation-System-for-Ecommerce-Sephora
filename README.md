@@ -16,19 +16,6 @@ The 'Pages' folder contains pages and templates for the website or application. 
 App.py
 The 'App.py' file serves as the main entry point of the website or application. It's where you'll define the application's behavior and user interactions.
 
-Getting Started
-To get started with the project, follow these steps:
-
-Clone the repository to your local machine:
-
-git clone https://github.com/your-username/repository-name.git
-Usage
-Clone the repository.
-Install the required dependencies.
-Run the application for personalized Sephora recommendations.
-Contributing
-We welcome contributions from the community. Whether it's improving the recommendation algorithm, adding new features, or enhancing the user interface, your input is valued.
-
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
