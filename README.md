@@ -6,7 +6,7 @@ Welcome to the Sephora Personalized Recommendation System repository! 💄👠�
 Sephora Logo
 
 📜 Table of Contents
-🚀 Introduction
+.🚀 Introduction
 
 📊 Data
 
