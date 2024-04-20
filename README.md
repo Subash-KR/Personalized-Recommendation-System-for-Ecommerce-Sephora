@@ -1,9 +1,10 @@
-# Personalized-Recommendation-System-for-Ecommerce-Sephora
+### Personalized-Recommendation-System-for-Ecommerce-Sephora
 
 Sephora Personalized Recommendation System 🌟
 Welcome to the Sephora Personalized Recommendation System repository! 💄👠🛍️
 
 Sephora Logo
+
 📜 Table of Contents
 🚀 Introduction
 📊 Data
