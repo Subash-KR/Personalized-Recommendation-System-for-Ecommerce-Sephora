@@ -5,27 +5,40 @@ Welcome to the Sephora Personalized Recommendation System repository! 💄👠�
 
 Sephora Logo
 
-📜 Table of Contents
-.🚀 Introduction
+# 📜 Table of Contents
+
+🚀 Introduction
 
 📊 Data
 
 🧹 Preprocessing
+
 🛠️ Feature Engineering
+
 🌟 Similarity Analysis
+
 🤝 User Clustering
+
 📢 Sentiment Analysis
+
 🎁 Recommendation Engine
+
 🔍 Filtering
+
 🖥️ User Interface
+
 🚀 Deployment
+
 📋 Usage
+
 🤝 Contributing
+
 📄 License
-🚀 Introduction
+
+# 🚀 Introduction
 The Sephora Personalized Recommendation System is an innovative project aimed at providing tailored product recommendations to Sephora customers. Leveraging the power of data science and machine learning, we've created a system that understands your preferences, considers product similarities, and groups users to offer a unique shopping experience. 🛒✨
 
-📊 Data
+# 📊 Data
 Our system utilizes two main datasets:
 
 Review Dataset: Contains customer reviews and ratings for Sephora products.
